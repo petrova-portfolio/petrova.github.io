@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://petrova-portfolio.github.io/petrova.github.io",
+  "display": "standalone"
+}
